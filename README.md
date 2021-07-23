@@ -1,4 +1,4 @@
-![Twitter URL](https://img.shields.io/twitter/url?label=abraao_dev&style=social&url=https%3A%2F%2Ftwitter.com%2Fabraao_dev)
+![Twitter URL](https://img.shields.io/twitter/url?label=abraaodev&style=social&url=https%3A%2F%2Ftwitter.com%2Fabraaodev)
 
  👋 Hi, I’m @abraaopinto
 - 👀 I’m interested in tecnology frontend [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [vuejs](https://vuejs.org/), [quasar](https://quasar.dev/) e backend [java](https://www.java.com/pt-BR/), [spring](https://spring.io/).
